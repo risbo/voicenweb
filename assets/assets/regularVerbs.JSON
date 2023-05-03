@@ -1,0 +1,1750 @@
+[
+  {
+    "english": "accept, accepted",
+    "spanish": "aceptar"
+  },
+  {
+    "english": "add ,added",
+    "spanish": "agregar"
+  },
+  {
+    "english": "admire, admired",
+    "spanish": "admirar"
+  },
+  {
+    "english": "admit, admitted",
+    "spanish": "admitir"
+  },
+  {
+    "english": "advise, advised",
+    "spanish": "aconsejar"
+  },
+  {
+    "english": "afford, afforded",
+    "spanish": "afrontar"
+  },
+  {
+    "english": "agree, agreed",
+    "spanish": "estar de acuerdo"
+  },
+  {
+    "english": "alert, alerted",
+    "spanish": "alertar"
+  },
+  {
+    "english": "allow, allowed",
+    "spanish": "permitir"
+  },
+  {
+    "english": "amuse, amused",
+    "spanish": "entretener"
+  },
+  {
+    "english": "analyse ,analysed",
+    "spanish": "analizar"
+  },
+  {
+    "english": "announce,  announced",
+    "spanish": "anunciar"
+  },
+  {
+    "english": "annoy, annoyed",
+    "spanish": "molestar"
+  },
+  {
+    "english": "answer, answered",
+    "spanish": "contestar"
+  },
+  {
+    "english": "apologise, apologised",
+    "spanish": "pedir disculpas, disculparse"
+  },
+  {
+    "english": "appear, appeared",
+    "spanish": "aparecer"
+  },
+  {
+    "english": "applaud ,applauded",
+    "spanish": "aplaudir"
+  },
+  {
+    "english": "approve ,approved",
+    "spanish": "aprobar"
+  },
+  {
+    "english": "argue, argued",
+    "spanish": "discutir"
+  },
+  {
+    "english": "arrange ,arranged",
+    "spanish": "arreglar"
+  },
+  {
+    "english": "arrest, arrested",
+    "spanish": "arrestar"
+  },
+  {
+    "english": "arrive, arrived",
+    "spanish": "llegar"
+  },
+  {
+    "english": "ask ,asked",
+    "spanish": "preguntar"
+  },
+  {
+    "english": "attach, attached",
+    "spanish": "adjuntar"
+  },
+  {
+    "english": "attack, attacked",
+    "spanish": "atacar"
+  },
+  {
+    "english": "attempt ,attempted",
+    "spanish": "intentar"
+  },
+  {
+    "english": "attend, attended",
+    "spanish": "asistir"
+  },
+  {
+    "english": "attract ,attracted",
+    "spanish": "atraer"
+  },
+  {
+    "english": "avoid, avoided",
+    "spanish": "evitar"
+  },
+  {
+    "english": "back,  backed",
+    "spanish": "apoyar"
+  },
+  {
+    "english": "bake,  baked",
+    "spanish": "hornear"
+  },
+  {
+    "english": "balance ,balanced",
+    "spanish": "balancear"
+  },
+  {
+    "english": "ban ,banned",
+    "spanish": "prohibir"
+  },
+  {
+    "english": "bathe, bathed",
+    "spanish": "bañarse"
+  },
+  {
+    "english": "beg ,begged",
+    "spanish": "rogar"
+  },
+  {
+    "english": "behave, behaved",
+    "spanish": "comportarse"
+  },
+  {
+    "english": "belong, belonged",
+    "spanish": "pertenecer"
+  },
+  {
+    "english": "bless, blessed",
+    "spanish": "bendecir"
+  },
+  {
+    "english": "blind, blinded",
+    "spanish": "enceguecer"
+  },
+  {
+    "english": "blink, blinked",
+    "spanish": "parpadear                   "
+  },
+  {
+    "english": "blush, blushed",
+    "spanish": "enrojecer                   "
+  },
+  {
+    "english": "boil,  boiled",
+    "spanish": "hervir"
+  },
+  {
+    "english": "book,  booked",
+    "spanish": "reservar              "
+  },
+  {
+    "english": "bore,  bored",
+    "spanish": "aburrir                "
+  },
+  {
+    "english": "borrow, borrowed",
+    "spanish": "pedir prestado                 "
+  },
+  {
+    "english": "bounce, bounced",
+    "spanish": "rebotar               "
+  },
+  {
+    "english": "brake, braked",
+    "spanish": "frenar                "
+  },
+  {
+    "english": "breathe ,breathed",
+    "spanish": "respirar              "
+  },
+  {
+    "english": "brush, brushed",
+    "spanish": "cepillar                 "
+  },
+  {
+    "english": "burn,  burned",
+    "spanish": "quemar               "
+  },
+  {
+    "english": "bury,  buried",
+    "spanish": "enterrar     "
+  },
+  {
+    "english": "call,  called",
+    "spanish": "llamar               "
+  },
+  {
+    "english": "camp,  camped",
+    "spanish": "acampar"
+  },
+  {
+    "english": "care,  cared",
+    "spanish": "cuidar"
+  },
+  {
+    "english": "cause, caused",
+    "spanish": "causar"
+  },
+  {
+    "english": "change, changed",
+    "spanish": "cambiar"
+  },
+  {
+    "english": "charge, charged",
+    "spanish": "cargar"
+  },
+  {
+    "english": "chase, chased",
+    "spanish": "cazar"
+  },
+  {
+    "english": "cheat, cheated",
+    "spanish": "engañar"
+  },
+  {
+    "english": "check, checked",
+    "spanish": "verificar"
+  },
+  {
+    "english": "cheer, cheered",
+    "spanish": "alegrar"
+  },
+  {
+    "english": "chew,  chewed",
+    "spanish": "mascar"
+  },
+  {
+    "english": "claim, claimed",
+    "spanish": "reclamar"
+  },
+  {
+    "english": "clap,  clapped",
+    "spanish": "aplaudir"
+  },
+  {
+    "english": "clean, cleaned",
+    "spanish": "limpiar"
+  },
+  {
+    "english": "clear, cleared",
+    "spanish": "aclarar"
+  },
+  {
+    "english": "close, closed",
+    "spanish": "cerrar"
+  },
+  {
+    "english": "collect ,collected",
+    "spanish": "cobrar, coleccionar"
+  },
+  {
+    "english": "comb,  combed",
+    "spanish": "peinar"
+  },
+  {
+    "english": "compare ,compared",
+    "spanish": "comparar"
+  },
+  {
+    "english": "compete ,competed",
+    "spanish": "competir"
+  },
+  {
+    "english": "complain,complained",
+    "spanish": "quejarse"
+  },
+  {
+    "english": "complete,completed",
+    "spanish": "completar"
+  },
+  {
+    "english": "concentrate ,concentrated",
+    "spanish": "concentrarse"
+  },
+  {
+    "english": "concern ,concerned",
+    "spanish": "concernir"
+  },
+  {
+    "english": "confess ,confessed",
+    "spanish": "confesar"
+  },
+  {
+    "english": "confuse ,confused",
+    "spanish": "confundir"
+  },
+  {
+    "english": "connect ,connected",
+    "spanish": "conectar"
+  },
+  {
+    "english": "contain ,contained",
+    "spanish": "contener"
+  },
+  {
+    "english": "continue,  continued",
+    "spanish": "continuar"
+  },
+  {
+    "english": "cook,  cook",
+    "spanish": "cocinar"
+  },
+  {
+    "english": "copy,  copied",
+    "spanish": "copiar"
+  },
+  {
+    "english": "correct ,corrected",
+    "spanish": "corregir"
+  },
+  {
+    "english": "cough, coughed",
+    "spanish": "toser"
+  },
+  {
+    "english": "count, counted",
+    "spanish": "contar"
+  },
+  {
+    "english": "cover, covered",
+    "spanish": "cubrir"
+  },
+  {
+    "english": "crack, cracked",
+    "spanish": "rajar"
+  },
+  {
+    "english": "crash, crashed",
+    "spanish": "embestir"
+  },
+  {
+    "english": "crawl, crawled",
+    "spanish": "arrastrarse"
+  },
+  {
+    "english": "cross, crossed",
+    "spanish": "cruzar"
+  },
+  {
+    "english": "crush, crushed",
+    "spanish": "aplastar"
+  },
+  {
+    "english": "cry ,cried",
+    "spanish": "gritar, llorar"
+  },
+  {
+    "english": "cure,  cured",
+    "spanish": "curar"
+  },
+  {
+    "english": "curl,  curled",
+    "spanish": "enrular"
+  },
+  {
+    "english": "curve, curved",
+    "spanish": "curvar"
+  },
+  {
+    "english": "cycle, cycled",
+    "spanish": "pasear en bicicleta"
+  },
+  {
+    "english": "damage, damaged",
+    "spanish": "dañar"
+  },
+  {
+    "english": "dance, danced",
+    "spanish": "bailar"
+  },
+  {
+    "english": "deceive ,deceived",
+    "spanish": "engañar"
+  },
+  {
+    "english": "decide, decided",
+    "spanish": "decidir"
+  },
+  {
+    "english": "decorate,  decorated",
+    "spanish": "decorar"
+  },
+  {
+    "english": "delay, delayed",
+    "spanish": "demorar"
+  },
+  {
+    "english": "delete, deleted",
+    "spanish": "suprimir, eliminar, borrar"
+  },
+  {
+    "english": "delight ,delighted",
+    "spanish": "deleitar"
+  },
+  {
+    "english": "deliver ,delivered",
+    "spanish": "repartir"
+  },
+  {
+    "english": "depend, depended",
+    "spanish": "depender"
+  },
+  {
+    "english": "describe,  described",
+    "spanish": "describir"
+  },
+  {
+    "english": "deserve ,deserved",
+    "spanish": "merecer"
+  },
+  {
+    "english": "destroy ,destroyed",
+    "spanish": "destruir"
+  },
+  {
+    "english": "detect, detected",
+    "spanish": "detectar"
+  },
+  {
+    "english": "develop ,developed",
+    "spanish": "desarrollar"
+  },
+  {
+    "english": "disagree,  disagreed",
+    "spanish": "no estar de acuerdo"
+  },
+  {
+    "english": "dislike ,disliked",
+    "spanish": "disgustar"
+  },
+  {
+    "english": "divide, divided",
+    "spanish": "dividir"
+  },
+  {
+    "english": "double, doubled",
+    "spanish": "duplicar"
+  },
+  {
+    "english": "doubt, doubted",
+    "spanish": "dudar"
+  },
+  {
+    "english": "dream, dreamed",
+    "spanish": "soñar"
+  },
+  {
+    "english": "dress, dressed",
+    "spanish": "vestir"
+  },
+  {
+    "english": "drop,  dropped",
+    "spanish": "dejar caer, caerse"
+  },
+  {
+    "english": "drown, drowned",
+    "spanish": "ahogar"
+  },
+  {
+    "english": "dry ,dried",
+    "spanish": "secar"
+  },
+  {
+    "english": "dust,  dusted",
+    "spanish": "limpiar"
+  },
+  {
+    "english": "earn,  earned",
+    "spanish": "ganar"
+  },
+  {
+    "english": "embarrass,embarrassed",
+    "spanish": "avergonzar"
+  },
+  {
+    "english": "employ, employed",
+    "spanish": "emplear"
+  },
+  {
+    "english": "encourage,encouraged",
+    "spanish": "alentar"
+  },
+  {
+    "english": "end ,ended",
+    "spanish": "finalizar"
+  },
+  {
+    "english": "enjoy, enjoyed",
+    "spanish": "disfrutar"
+  },
+  {
+    "english": "enter, entered",
+    "spanish": "ingresar"
+  },
+  {
+    "english": "escape, escaped",
+    "spanish": "huir"
+  },
+  {
+    "english": "examine ,examined",
+    "spanish": "examinar"
+  },
+  {
+    "english": "excite, excited",
+    "spanish": "excitar"
+  },
+  {
+    "english": "excuse, excused",
+    "spanish": "excusarse"
+  },
+  {
+    "english": "exist, existed",
+    "spanish": "existir"
+  },
+  {
+    "english": "expand, expanded",
+    "spanish": "expandir"
+  },
+  {
+    "english": "expect, expected",
+    "spanish": "esperar"
+  },
+  {
+    "english": "explain ,explained",
+    "spanish": "explicar"
+  },
+  {
+    "english": "explode ,exploded",
+    "spanish": "explotar"
+  },
+  {
+    "english": "extend, extended",
+    "spanish": "extender"
+  },
+  {
+    "english": "face,  faced",
+    "spanish": "enfrentar"
+  },
+  {
+    "english": "fade,  faded",
+    "spanish": "decolorarse"
+  },
+  {
+    "english": "fail,  failed",
+    "spanish": "fracasar"
+  },
+  {
+    "english": "fancy, fancied",
+    "spanish": "imaginar, desear"
+  },
+  {
+    "english": "fasten, fastened",
+    "spanish": "atar"
+  },
+  {
+    "english": "fax ,faxed",
+    "spanish": "enviar un fax"
+  },
+  {
+    "english": "fear,  feared",
+    "spanish": "temer"
+  },
+  {
+    "english": "fetch, fetched",
+    "spanish": "ir a buscar"
+  },
+  {
+    "english": "file,  filed",
+    "spanish": "archivar"
+  },
+  {
+    "english": "fill,  filled",
+    "spanish": "llenar"
+  },
+  {
+    "english": "film,  filmed",
+    "spanish": "filmar"
+  },
+  {
+    "english": "finish, finished",
+    "spanish": "terminar"
+  },
+  {
+    "english": "fire,  fired",
+    "spanish": "disparar, despedir"
+  },
+  {
+    "english": "fit ,fitted",
+    "spanish": "caber, encajar"
+  },
+  {
+    "english": "fix ,fixed",
+    "spanish": "reparar"
+  },
+  {
+    "english": "flash, flashed",
+    "spanish": "brillar, centellear"
+  },
+  {
+    "english": "float, floated",
+    "spanish": "flotar"
+  },
+  {
+    "english": "flood, flooded",
+    "spanish": "inundarse"
+  },
+  {
+    "english": "flow,  flowed",
+    "spanish": "fluir, circular"
+  },
+  {
+    "english": "flower, flowered",
+    "spanish": "florecer"
+  },
+  {
+    "english": "fold,  folded",
+    "spanish": "doblar"
+  },
+  {
+    "english": "follow, followed",
+    "spanish": "seguir, continuar"
+  },
+  {
+    "english": "fool,  fooled",
+    "spanish": "engañar"
+  },
+  {
+    "english": "force, forced",
+    "spanish": "forzar"
+  },
+  {
+    "english": "form,  formed",
+    "spanish": "formar"
+  },
+  {
+    "english": "found, founded",
+    "spanish": "fundar"
+  },
+  {
+    "english": "frame, framed",
+    "spanish": "enmarcar"
+  },
+  {
+    "english": "frighten,  frightened",
+    "spanish": "asustar"
+  },
+  {
+    "english": "fry ,fried",
+    "spanish": "freír"
+  },
+  {
+    "english": "gather, gathered",
+    "spanish": "recoger"
+  },
+  {
+    "english": "greet, greeted",
+    "spanish": "saludar"
+  },
+  {
+    "english": "graduate,  graduated",
+    "spanish": "graduarse"
+  },
+  {
+    "english": "grease, greased",
+    "spanish": "engrasar"
+  },
+  {
+    "english": "groan, groaned",
+    "spanish": "gruñir"
+  },
+  {
+    "english": "guess, guessed",
+    "spanish": "adivinar"
+  },
+  {
+    "english": "guide, guided",
+    "spanish": "guiar"
+  },
+  {
+    "english": "hammer, hammered",
+    "spanish": "martillar"
+  },
+  {
+    "english": "hand,  handed",
+    "spanish": "pasar, entregar"
+  },
+  {
+    "english": "hang,  hanged",
+    "spanish": "colgar, ahorcar"
+  },
+  {
+    "english": "happen, happened",
+    "spanish": "suceder"
+  },
+  {
+    "english": "harm,  harmed",
+    "spanish": "dañar"
+  },
+  {
+    "english": "hate,  hated",
+    "spanish": "odiar"
+  },
+  {
+    "english": "head,  headed",
+    "spanish": "encabezar"
+  },
+  {
+    "english": "heat,  heated",
+    "spanish": "calentar"
+  },
+  {
+    "english": "help,  helped",
+    "spanish": "ayudar"
+  },
+  {
+    "english": "hunt,  hunted",
+    "spanish": "cazar, ir de caza"
+  },
+  {
+    "english": "hope,  hoped",
+    "spanish": "esperar con ansiedad"
+  },
+  {
+    "english": "hug ,hugged",
+    "spanish": "abrazar"
+  },
+  {
+    "english": "hurry, hurried",
+    "spanish": "apurarse"
+  },
+  {
+    "english": "identify,  identified",
+    "spanish": "identificar"
+  },
+  {
+    "english": "ignore, ignored",
+    "spanish": "ignorar"
+  },
+  {
+    "english": "imagine ,imagined",
+    "spanish": "imaginar"
+  },
+  {
+    "english": "impress ,impressed",
+    "spanish": "impresionar"
+  },
+  {
+    "english": "improve ,improved",
+    "spanish": "mejorar"
+  },
+  {
+    "english": "include ,included",
+    "spanish": "incluir"
+  },
+  {
+    "english": "increase,  increased",
+    "spanish": "aumentar"
+  },
+  {
+    "english": "influence, influenced",
+    "spanish": "influenciar"
+  },
+  {
+    "english": "inform, informed",
+    "spanish": "informar"
+  },
+  {
+    "english": "inject, injected",
+    "spanish": "inyectar"
+  },
+  {
+    "english": "injure, injured",
+    "spanish": "herir, lesionar"
+  },
+  {
+    "english": "introduce, introduced",
+    "spanish": "presentar"
+  },
+  {
+    "english": "instruct,  instructed",
+    "spanish": "instruir"
+  },
+  {
+    "english": "intend, intended",
+    "spanish": "intentar"
+  },
+  {
+    "english": "interest,  interested",
+    "spanish": "interesar"
+  },
+  {
+    "english": "interfere, interfered",
+    "spanish": "interferir"
+  },
+  {
+    "english": "interrupt, interrupted",
+    "spanish": "interrumpir"
+  },
+  {
+    "english": "invent, invented",
+    "spanish": "inventar"
+  },
+  {
+    "english": "invite, invited",
+    "spanish": "invitar"
+  },
+  {
+    "english": "irritate,  irritated",
+    "spanish": "irritar"
+  },
+  {
+    "english": "jail,  jailed",
+    "spanish": "encarcelar"
+  },
+  {
+    "english": "join,  joined",
+    "spanish": "unir, juntar"
+  },
+  {
+    "english": "joke,  joked",
+    "spanish": "bromear"
+  },
+  {
+    "english": "judge, judged",
+    "spanish": "juzgar"
+  },
+  {
+    "english": "jump,  jumped",
+    "spanish": "saltar"
+  },
+  {
+    "english": "kick,  kicked",
+    "spanish": "patear"
+  },
+  {
+    "english": "kill,  killed",
+    "spanish": "matar"
+  },
+  {
+    "english": "kiss,  kissed",
+    "spanish": "besar"
+  },
+  {
+    "english": "kneel, kneeled",
+    "spanish": "arrodillarse"
+  },
+  {
+    "english": "knit,  knitted",
+    "spanish": "tejer"
+  },
+  {
+    "english": "knock, knocked",
+    "spanish": "golpear"
+  },
+  {
+    "english": "knot,  knotted",
+    "spanish": "anudar"
+  },
+  {
+    "english": "label, labelled",
+    "spanish": "etiquetar"
+  },
+  {
+    "english": "land,  landed",
+    "spanish": "aterrizar"
+  },
+  {
+    "english": "last,  lasted",
+    "spanish": "durar"
+  },
+  {
+    "english": "laugh, laughed",
+    "spanish": "reírse"
+  },
+  {
+    "english": "launch, launched",
+    "spanish": "lanzar"
+  },
+  {
+    "english": "level, levelled",
+    "spanish": "nivelar"
+  },
+  {
+    "english": "lick,  licked",
+    "spanish": "lamer"
+  },
+  {
+    "english": "lighten ,lightened",
+    "spanish": "iluminar, alivianar"
+  },
+  {
+    "english": "like,  liked",
+    "spanish": "gustar"
+  },
+  {
+    "english": "list,   listed",
+    "spanish": " listar"
+  },
+  {
+    "english": "listen,  listened",
+    "spanish": " escuchar"
+  },
+  {
+    "english": "live,   lived",
+    "spanish": " vivir"
+  },
+  {
+    "english": "load,   loaded",
+    "spanish": " cargar"
+  },
+  {
+    "english": "lock,   locked",
+    "spanish": " cerrar con llave"
+  },
+  {
+    "english": "long,   longed",
+    "spanish": " durar"
+  },
+  {
+    "english": "look,   looked",
+    "spanish": " mirar"
+  },
+  {
+    "english": "love,   loved",
+    "spanish": " amar"
+  },
+  {
+    "english": "manage, managed",
+    "spanish": "administrar"
+  },
+  {
+    "english": "march, marched",
+    "spanish": "marchar"
+  },
+  {
+    "english": "mark,  marked",
+    "spanish": "marcar"
+  },
+  {
+    "english": "marry, married",
+    "spanish": "casarse"
+  },
+  {
+    "english": "match, matched",
+    "spanish": "hacer juego"
+  },
+  {
+    "english": "measure ,measured",
+    "spanish": "medir"
+  },
+  {
+    "english": "melt,  melted",
+    "spanish": "derretirse"
+  },
+  {
+    "english": "mend,  mended",
+    "spanish": "remendar"
+  },
+  {
+    "english": "milk,  milked",
+    "spanish": "ordeñar"
+  },
+  {
+    "english": "miss,  missed",
+    "spanish": "perder, extrañar"
+  },
+  {
+    "english": "mix ,mixed",
+    "spanish": "mezclar"
+  },
+  {
+    "english": "move,  moved",
+    "spanish": "mover, mudarse"
+  },
+  {
+    "english": "multiply,  multiplied",
+    "spanish": "multiplicar"
+  },
+  {
+    "english": "murder, murdered",
+    "spanish": "asesinar"
+  },
+  {
+    "english": "nail,  nailed",
+    "spanish": "clavar"
+  },
+  {
+    "english": "name,  named",
+    "spanish": "nombrar"
+  },
+  {
+    "english": "need,  needed",
+    "spanish": "necesitar"
+  },
+  {
+    "english": "note,  noted",
+    "spanish": "advertir, fijarse en"
+  },
+  {
+    "english": "notice, noticed",
+    "spanish": "prestar atención"
+  },
+  {
+    "english": "number, numbered",
+    "spanish": "numerar"
+  },
+  {
+    "english": "obey,  obeyed",
+    "spanish": "obedecer"
+  },
+  {
+    "english": "object, objected",
+    "spanish": "objetar"
+  },
+  {
+    "english": "observe ,observed",
+    "spanish": "observar"
+  },
+  {
+    "english": "obtain, obtained",
+    "spanish": "obtener"
+  },
+  {
+    "english": "offend, offended",
+    "spanish": "ofender"
+  },
+  {
+    "english": "offer, offered",
+    "spanish": "ofrecer"
+  },
+  {
+    "english": "open,  opened",
+    "spanish": "abrir"
+  },
+  {
+    "english": "order, ordered",
+    "spanish": "ordenar, pedir"
+  },
+  {
+    "english": "overflow,  overflowed",
+    "spanish": "inundar"
+  },
+  {
+    "english": "owe ,owed",
+    "spanish": "adeudar"
+  },
+  {
+    "english": "pack,  packed",
+    "spanish": "empacar"
+  },
+  {
+    "english": "paint, painted",
+    "spanish": "pintar"
+  },
+  {
+    "english": "park,  parked",
+    "spanish": "estacionar"
+  },
+  {
+    "english": "pass,  passed",
+    "spanish": "pasar, aprobar"
+  },
+  {
+    "english": "paste, pasted",
+    "spanish": "pegar"
+  },
+  {
+    "english": "pat ,patted",
+    "spanish": "acariciar"
+  },
+  {
+    "english": "pause, paused",
+    "spanish": "detenerse"
+  },
+  {
+    "english": "pedal, pedalled",
+    "spanish": "pedalear"
+  },
+  {
+    "english": "peel,  peeled",
+    "spanish": "pelar"
+  },
+  {
+    "english": "peep,  peeped",
+    "spanish": "echar una ojeada"
+  },
+  {
+    "english": "perform ,performed",
+    "spanish": "ejecutar"
+  },
+  {
+    "english": "phone, phoned",
+    "spanish": "llamar por teléfono"
+  },
+  {
+    "english": "pick,  picked",
+    "spanish": "recoger, levantar"
+  },
+  {
+    "english": "plan,  planned",
+    "spanish": "planear, planificar"
+  },
+  {
+    "english": "plant, planted",
+    "spanish": "plantar"
+  },
+  {
+    "english": "place, placed",
+    "spanish": "ubicar"
+  },
+  {
+    "english": "play,  played",
+    "spanish": "tocar un instrumento, jugar"
+  },
+  {
+    "english": "please, pleased",
+    "spanish": "complacer"
+  },
+  {
+    "english": "plug,   plugged",
+    "spanish": "conectar"
+  },
+  {
+    "english": "point,  pointed",
+    "spanish": "señalar"
+  },
+  {
+    "english": "polish,  polished",
+    "spanish": "lustrar"
+  },
+  {
+    "english": "possess, possessed",
+    "spanish": "poseer"
+  },
+  {
+    "english": "post,   posted",
+    "spanish": "enviar por correo"
+  },
+  {
+    "english": "pour,  poured",
+    "spanish": "derramar"
+  },
+  {
+    "english": "practise,  practised",
+    "spanish": "practicar"
+  },
+  {
+    "english": "pray,  prayed",
+    "spanish": "rezar"
+  },
+  {
+    "english": "precede ,preceded",
+    "spanish": "preceder"
+  },
+  {
+    "english": "prefer, preferred",
+    "spanish": "preferir"
+  },
+  {
+    "english": "prepare ,prepared",
+    "spanish": "preparar"
+  },
+  {
+    "english": "present ,presented",
+    "spanish": "presentar, regalar"
+  },
+  {
+    "english": "press, pressed",
+    "spanish": "presionar, apretar"
+  },
+  {
+    "english": "pretend ,pretended",
+    "spanish": "fingir"
+  },
+  {
+    "english": "prevent ,prevented",
+    "spanish": "impedir"
+  },
+  {
+    "english": "print, printed",
+    "spanish": "imprimir"
+  },
+  {
+    "english": "produce ,produced",
+    "spanish": "producir"
+  },
+  {
+    "english": "promise ,promised",
+    "spanish": "prometer"
+  },
+  {
+    "english": "protect ,protected",
+    "spanish": "proteger"
+  },
+  {
+    "english": "provide ,provided",
+    "spanish": "proveer"
+  },
+  {
+    "english": "pull,  pulled",
+    "spanish": "tirar de"
+  },
+  {
+    "english": "pump,  pumped",
+    "spanish": "bombear"
+  },
+  {
+    "english": "punish, punished",
+    "spanish": "castigar"
+  },
+  {
+    "english": "push,  pushed",
+    "spanish": "empujar"
+  },
+  {
+    "english": "queue, queued",
+    "spanish": " hacer cola"
+  },
+  {
+    "english": "rain,  rained",
+    "spanish": "llover"
+  },
+  {
+    "english": "raise, raised",
+    "spanish": "levantar"
+  },
+  {
+    "english": "reach, reached",
+    "spanish": "alcanzar"
+  },
+  {
+    "english": "realise ,realised",
+    "spanish": "darse cuenta"
+  },
+  {
+    "english": "receive ,received",
+    "spanish": "recibir"
+  },
+  {
+    "english": "record, recorded",
+    "spanish": "grabar"
+  },
+  {
+    "english": "reduce, reduced",
+    "spanish": "reducir"
+  },
+  {
+    "english": "reflect ,reflected",
+    "spanish": "reflejar"
+  },
+  {
+    "english": "refuse, refused",
+    "spanish": "rechazar"
+  },
+  {
+    "english": "regret, regretted",
+    "spanish": "lamentarse"
+  },
+  {
+    "english": "relax, relaxed",
+    "spanish": "relajarse"
+  },
+  {
+    "english": "release ,released",
+    "spanish": "soltar"
+  },
+  {
+    "english": "rely,  relied",
+    "spanish": "confiar"
+  },
+  {
+    "english": "remain, remained",
+    "spanish": "permanecer"
+  },
+  {
+    "english": "remind, reminded",
+    "spanish": "acordarse de"
+  },
+  {
+    "english": "remove, removed",
+    "spanish": "eliminar"
+  },
+  {
+    "english": "rent,  rented",
+    "spanish": "alquilar"
+  },
+  {
+    "english": "repair, repaired",
+    "spanish": "reparar"
+  },
+  {
+    "english": "repeat, repeated",
+    "spanish": "repetir"
+  },
+  {
+    "english": "replace ,replaced",
+    "spanish": "reemplazar"
+  },
+  {
+    "english": "reply, replied",
+    "spanish": "responder"
+  },
+  {
+    "english": "report, reported",
+    "spanish": "informar"
+  },
+  {
+    "english": "request ,requested",
+    "spanish": "solicitar"
+  },
+  {
+    "english": "rescue, rescued",
+    "spanish": "rescatar"
+  },
+  {
+    "english": "retire, retired",
+    "spanish": "jubilarse"
+  },
+  {
+    "english": "return, returned",
+    "spanish": "regresar"
+  },
+  {
+    "english": "rhyme, rhymed",
+    "spanish": "rimar"
+  },
+  {
+    "english": "rinse, rinsed",
+    "spanish": "enjuagar"
+  },
+  {
+    "english": "risk,  risked",
+    "spanish": "arriesgar"
+  },
+  {
+    "english": "rob ,robbed",
+    "spanish": "robar"
+  },
+  {
+    "english": "row ,rowed",
+    "spanish": "remar"
+  },
+  {
+    "english": "rub ,rubbed",
+    "spanish": "frotar"
+  },
+  {
+    "english": "ruin,  ruined",
+    "spanish": "arruinar"
+  },
+  {
+    "english": "rule,  ruled",
+    "spanish": "regir, dominar"
+  },
+  {
+    "english": "sack,  sacked",
+    "spanish": "despedir"
+  },
+  {
+    "english": "sail,  sailed",
+    "spanish": "navegar"
+  },
+  {
+    "english": "satisfy ,satisfied",
+    "spanish": "satisfacer"
+  },
+  {
+    "english": "save,  saved",
+    "spanish": "salvar, ahorrar, guardar"
+  },
+  {
+    "english": "scream, screamed",
+    "spanish": "gritar"
+  },
+  {
+    "english": "screw, screwed",
+    "spanish": "atornillar"
+  },
+  {
+    "english": "seal,  sealed",
+    "spanish": "sellar"
+  },
+  {
+    "english": "search, searched",
+    "spanish": "buscar"
+  },
+  {
+    "english": "separate,  separated",
+    "spanish": "separar"
+  },
+  {
+    "english": "serve, served",
+    "spanish": "servir"
+  },
+  {
+    "english": "settle, settled",
+    "spanish": "establecer"
+  },
+  {
+    "english": "share, shared",
+    "spanish": "compartir"
+  },
+  {
+    "english": "shave, shaved",
+    "spanish": "afeitarse"
+  },
+  {
+    "english": "shelter ,sheltered",
+    "spanish": "proteger, resguardar"
+  },
+  {
+    "english": "shop,  shopped",
+    "spanish": "comprar"
+  },
+  {
+    "english": "sigh,  sighed",
+    "spanish": "suspirar"
+  },
+  {
+    "english": "sign,  signed",
+    "spanish": "firmar"
+  },
+  {
+    "english": "signal, signalled",
+    "spanish": "hacer señales"
+  },
+  {
+    "english": "sin ,sinned",
+    "spanish": "pecar"
+  },
+  {
+    "english": "ski ,skied",
+    "spanish": "esquiar"
+  },
+  {
+    "english": "skip,  skipped",
+    "spanish": "saltearse"
+  },
+  {
+    "english": "slip,  slipped",
+    "spanish": "deslizarse "
+  },
+  {
+    "english": "slow,  slowed",
+    "spanish": "disminuir la velocidad"
+  },
+  {
+    "english": "smell, smelled",
+    "spanish": "oler"
+  },
+  {
+    "english": "smile, smiled",
+    "spanish": "sonreír"
+  },
+  {
+    "english": "smoke, smoked",
+    "spanish": "fumar"
+  },
+  {
+    "english": "sneeze, sneezed",
+    "spanish": "estornudar"
+  },
+  {
+    "english": "snore, snored",
+    "spanish": "roncar"
+  },
+  {
+    "english": "snow,  snowed",
+    "spanish": "nevar"
+  },
+  {
+    "english": "soak,  soaked",
+    "spanish": "empapar"
+  },
+  {
+    "english": "sound, sounded",
+    "spanish": "sonar"
+  },
+  {
+    "english": "spell, spelled",
+    "spanish": "deletrear"
+  },
+  {
+    "english": "spill, spilled",
+    "spanish": "derramar"
+  },
+  {
+    "english": "spoil, spoiled",
+    "spanish": "malcriar"
+  },
+  {
+    "english": "spray, sprayed",
+    "spanish": "vaporizar"
+  },
+  {
+    "english": "start, started",
+    "spanish": "arrancar, comenzar"
+  },
+  {
+    "english": "stay,  stayed",
+    "spanish": "quedarse, permanecer"
+  },
+  {
+    "english": "stop,  stopped",
+    "spanish": "pararse, detenerse"
+  },
+  {
+    "english": "store, stored",
+    "spanish": "almacenar"
+  },
+  {
+    "english": "stretch ,stretched",
+    "spanish": "estirar"
+  },
+  {
+    "english": "succeed ,succeeded",
+    "spanish": "tener éxito"
+  },
+  {
+    "english": "suffer, suffered",
+    "spanish": "sufrir"
+  },
+  {
+    "english": "supply, supplied",
+    "spanish": "proveer"
+  },
+  {
+    "english": "support ,supported",
+    "spanish": "apoyar"
+  },
+  {
+    "english": "suppose ,supposed",
+    "spanish": "suponer"
+  },
+  {
+    "english": "surprise,  surprised",
+    "spanish": "sorprender"
+  },
+  {
+    "english": "suspect ,suspected",
+    "spanish": "sospechar"
+  },
+  {
+    "english": "switch, switched",
+    "spanish": "cambiar, enchufar"
+  },
+  {
+    "english": "talk,  talked",
+    "spanish": "conversar"
+  },
+  {
+    "english": "taste, tasted",
+    "spanish": "saborear"
+  },
+  {
+    "english": "tease, teased",
+    "spanish": "tomar el pelo, atormentar"
+  },
+  {
+    "english": "telephone, telephoned",
+    "spanish": "llamar por teléfono"
+  },
+  {
+    "english": "tempt, tempted",
+    "spanish": "tentar"
+  },
+  {
+    "english": "terrify ,terrified",
+    "spanish": "aterrorizar"
+  },
+  {
+    "english": "test,  tested",
+    "spanish": "comprobar"
+  },
+  {
+    "english": "thank, thanked",
+    "spanish": "agradecer"
+  },
+  {
+    "english": "tick,  ticked",
+    "spanish": "tildar, marcar"
+  },
+  {
+    "english": "tidy,  tidied",
+    "spanish": "ordenar"
+  },
+  {
+    "english": "tie ,tied",
+    "spanish": "atar"
+  },
+  {
+    "english": "tip ,tipped",
+    "spanish": "dar propina"
+  },
+  {
+    "english": "touch, touched",
+    "spanish": "tocar"
+  },
+  {
+    "english": "tow ,towed",
+    "spanish": "remolcar"
+  },
+  {
+    "english": "trade, traded",
+    "spanish": "comerciar, negociar"
+  },
+  {
+    "english": "train, trained",
+    "spanish": "entrenar"
+  },
+  {
+    "english": "travel, travelled",
+    "spanish": "viajar"
+  },
+  {
+    "english": "tremble ,trembled",
+    "spanish": "temblar"
+  },
+  {
+    "english": "trust, trusted",
+    "spanish": "confiar"
+  },
+  {
+    "english": "try ,tried",
+    "spanish": "tratar, intentar "
+  },
+  {
+    "english": "turn,  turned",
+    "spanish": "volver, dar vuelta"
+  },
+  {
+    "english": "twist, twisted",
+    "spanish": "doblar"
+  },
+  {
+    "english": "type,  typed",
+    "spanish": "escribir a máquina"
+  },
+  {
+    "english": "use ,used",
+    "spanish": "usar"
+  },
+  {
+    "english": "vanish, vanished",
+    "spanish": "desaparecer"
+  },
+  {
+    "english": "visit, visited",
+    "spanish": "visitar"
+  },
+  {
+    "english": "wait,  waited",
+    "spanish": "esperar"
+  },
+  {
+    "english": "walk,  walked",
+    "spanish": "caminar"
+  },
+  {
+    "english": "want,  wanted",
+    "spanish": "querer"
+  },
+  {
+    "english": "warn,  warned",
+    "spanish": "advertir"
+  },
+  {
+    "english": "wash,  washed",
+    "spanish": "lavar"
+  },
+  {
+    "english": "waste, wasted",
+    "spanish": "gastar, desperdiciar"
+  },
+  {
+    "english": "watch, watched",
+    "spanish": "vigilar"
+  },
+  {
+    "english": "weigh, weighed",
+    "spanish": "pesar"
+  },
+  {
+    "english": "welcome ,welcomed",
+    "spanish": "agradecer, recibir,  dar la bienvenida, "
+  },
+  {
+    "english": "whisper ,whispered",
+    "spanish": "susurrar"
+  },
+  {
+    "english": "whistle ,whistled",
+    "spanish": "silbar"
+  },
+  {
+    "english": "wipe,  wiped",
+    "spanish": "limpiar, secar"
+  },
+  {
+    "english": "wish,  wished",
+    "spanish": "desear"
+  },
+  {
+    "english": "wonder, wondered",
+    "spanish": "imaginarse, preguntarse"
+  },
+  {
+    "english": "work,  worked",
+    "spanish": "trabajar"
+  },
+  {
+    "english": "worry, worried",
+    "spanish": "preocuparse"
+  },
+  {
+    "english": "yawn,  yawned",
+    "spanish": "bostezar"
+  },
+  {
+    "english": "yell,  yelled",
+    "spanish": "gritar"
+  },
+  {
+    "english": "zoom,  zoomed",
+    "spanish": "pasar muy rápido,  acercar"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "english": "abide, abode, abode    ",
+    "spanish": "tolerar, soportar"
+  },
+  {
+    "english": "arise, arose, arisen   ",
+    "spanish": "surgir, plantear"
+  },
+  {
+    "english": "awake, awoke, awoke    ",
+    "spanish": "despertarse"
+  },
+  {
+    "english": "be, was/were, been     ",
+    "spanish": "ser, estar"
+  },
+  {
+    "english": "beat, beat, beaten   ",
+    "spanish": "golpear, latir, batir"
+  },
+  {
+    "english": "become, became, become   ",
+    "spanish": "llegar a ser"
+  },
+  {
+    "english": "begin, began, begun    ",
+    "spanish": "comenzar"
+  },
+  {
+    "english": "bend, bent, bent     ",
+    "spanish": "doblarse, inclinarse"
+  },
+  {
+    "english": "bet, bet, bet ",
+    "spanish": "apostar en algo"
+  },
+  {
+    "english": "bind, bound, bound    ",
+    "spanish": "atar, unir, ligar"
+  },
+  {
+    "english": "bite, bit, bitten   ",
+    "spanish": "morder/se"
+  },
+  {
+    "english": "bleed, bled, bled     ",
+    "spanish": "sangrar"
+  },
+  {
+    "english": "blow, blew, blown    ",
+    "spanish": "soplar, hacer sonar"
+  },
+  {
+    "english": "break, broke, broken   ",
+    "spanish": "romper"
+  },
+  {
+    "english": "breed, bred, bred     ",
+    "spanish": "criar, reproducir/se"
+  },
+  {
+    "english": "bring, brought, brought  ",
+    "spanish": "traer"
+  },
+  {
+    "english": "build, built, built    ",
+    "spanish": "construir"
+  },
+  {
+    "english": "burn, burnt, burnt    ",
+    "spanish": "quemar"
+  },
+  {
+    "english": "buy, bought, bought   ",
+    "spanish": "comprar"
+  },
+  {
+    "english": "catch, caught, caught   ",
+    "spanish": "agarrar"
+  },
+  {
+    "english": "choose, chose, chosen   ",
+    "spanish": "elegir"
+  },
+  {
+    "english": "come, came, come     ",
+    "spanish": "venir"
+  },
+  {
+    "english": "cost, cost, cost     ",
+    "spanish": "costar"
+  },
+  {
+    "english": "creep, crept, crept    ",
+    "spanish": "arrastrar, deslizarse"
+  },
+  {
+    "english": "cut, cut, cut ",
+    "spanish": "cortar"
+  },
+  {
+    "english": "deal, dealt, dealt    ",
+    "spanish": "tratar, ocuparse"
+  },
+  {
+    "english": "dig, dug, dug ",
+    "spanish": "cavar, excavar"
+  },
+  {
+    "english": "do, did, done     ",
+    "spanish": "hacer"
+  },
+  {
+    "english": "draw, drew, drawn    ",
+    "spanish": "dibujar, atraer"
+  },
+  {
+    "english": "drink, drank, drunk    ",
+    "spanish": "beber"
+  },
+  {
+    "english": "drive, drove, driven   ",
+    "spanish": "conducir"
+  },
+  {
+    "english": "eat, ate, eaten    ",
+    "spanish": "comer"
+  },
+  {
+    "english": "fall, fell, fallen   ",
+    "spanish": "caer"
+  },
+  {
+    "english": "feed, fed, fed ",
+    "spanish": "alimentar"
+  },
+  {
+    "english": "feel, felt, felt     ",
+    "spanish": "sentir"
+  },
+  {
+    "english": "fight, fought, fought   ",
+    "spanish": "luchar, pelear"
+  },
+  {
+    "english": "find, found, found    ",
+    "spanish": "encontrar"
+  },
+  {
+    "english": "flee, fled, fled     ",
+    "spanish": "escapar, huir"
+  },
+  {
+    "english": "fling, flung, flung    ",
+    "spanish": "arrojar, lanzar"
+  },
+  {
+    "english": "fly, flew, flown    ",
+    "spanish": "volar"
+  },
+  {
+    "english": "forget, forgot, forgotten     ",
+    "spanish": "olvidar"
+  },
+  {
+    "english": "freeze, froze, frozen   ",
+    "spanish": "helar, congelar"
+  },
+  {
+    "english": "get, got, got/gotten    ",
+    "spanish": "obtener, conseguir"
+  },
+  {
+    "english": "give, gave, given    ",
+    "spanish": "dar"
+  },
+  {
+    "english": "go, went, gone     ",
+    "spanish": "ir"
+  },
+  {
+    "english": "grind, ground, ground   ",
+    "spanish": "moler"
+  },
+  {
+    "english": "grow, grew, grown    ",
+    "spanish": "cultivar, crecer"
+  },
+  {
+    "english": "hang, hung, hung     ",
+    "spanish": "colgar"
+  },
+  {
+    "english": "have, had, had ",
+    "spanish": "tener, haber"
+  },
+  {
+    "english": "hear, heard, heard    ",
+    "spanish": "oír"
+  },
+  {
+    "english": "hide, hid, hidden   ",
+    "spanish": "ocultar, esconder"
+  },
+  {
+    "english": "hit, hit, hit ",
+    "spanish": "golpear"
+  },
+  {
+    "english": "hold, held, held     ",
+    "spanish": "sostener, soportar"
+  },
+  {
+    "english": "keep, kept, kept     ",
+    "spanish": "guardar, conservar"
+  },
+  {
+    "english": "kneel, knelt, knelt    ",
+    "spanish": "arrodillarse"
+  },
+  {
+    "english": "know, knew, known    ",
+    "spanish": "saber, conocer"
+  },
+  {
+    "english": "lead, led, led ",
+    "spanish": "guiar, conducir"
+  },
+  {
+    "english": "lend, lent, lent     ",
+    "spanish": "prestar"
+  },
+  {
+    "english": "learn, learnt, learnt   ",
+    "spanish": "aprender"
+  },
+  {
+    "english": "leave, left, left     ",
+    "spanish": "irse, dejar, partir"
+  },
+  {
+    "english": "lose, lost, lost     ",
+    "spanish": "perder"
+  },
+  {
+    "english": "make, made, made     ",
+    "spanish": "hacer, fabricar"
+  },
+  {
+    "english": "mean, meant, meant    ",
+    "spanish": "significar"
+  },
+  {
+    "english": "meet, met, met ",
+    "spanish": "encontrarse con"
+  },
+  {
+    "english": "pay, paid, paid     ",
+    "spanish": "pagar"
+  },
+  {
+    "english": "put, put, put ",
+    "spanish": "poner, colocar"
+  },
+  {
+    "english": "read, read, read     ",
+    "spanish": "leer"
+  },
+  {
+    "english": "ride, rode, ridden   ",
+    "spanish": "cabalgar"
+  },
+  {
+    "english": "ring, rang, rung     ",
+    "spanish": "sonar"
+  },
+  {
+    "english": "run, ran, run ",
+    "spanish": "correr"
+  },
+  {
+    "english": "say, said, said     ",
+    "spanish": "decir"
+  },
+  {
+    "english": "see, saw, seen     ",
+    "spanish": "ver"
+  },
+  {
+    "english": "seek, sought, sought   ",
+    "spanish": "buscar"
+  },
+  {
+    "english": "sell, sold, sold     ",
+    "spanish": "vender"
+  },
+  {
+    "english": "send, sent, sent     ",
+    "spanish": "enviar"
+  },
+  {
+    "english": "shake, shook, shaken   ",
+    "spanish": "agitar, sacudir"
+  },
+  {
+    "english": "shine, shone, shone    ",
+    "spanish": "brillar, resplandecer"
+  },
+  {
+    "english": "shoot, shot, shot     ",
+    "spanish": "pegar un tiro"
+  },
+  {
+    "english": "show, showed, shown    ",
+    "spanish": "mostrar, demostrar"
+  },
+  {
+    "english": "shrink, shrank, shrunk   ",
+    "spanish": "encogerse (tamaño)"
+  },
+  {
+    "english": "shut, shut, shut     ",
+    "spanish": "cerrar"
+  },
+  {
+    "english": "sing, sang, sung     ",
+    "spanish": "cantar"
+  },
+  {
+    "english": "sink, sank, sunk     ",
+    "spanish": "hundir/se"
+  },
+  {
+    "english": "sit, sat, sat ",
+    "spanish": "sentar/se"
+  },
+  {
+    "english": "slay, slew, slain    ",
+    "spanish": "asesinar"
+  },
+  {
+    "english": "sleep, slept, slept    ",
+    "spanish": "dormir"
+  },
+  {
+    "english": "slide, slid, slid     ",
+    "spanish": "resbalar, deslizar"
+  },
+  {
+    "english": "sling, slung, slung    ",
+    "spanish": "lanzar con fuerza"
+  },
+  {
+    "english": "smell, smelt, smelt    ",
+    "spanish": "oler"
+  },
+  {
+    "english": "speak, spoke, spoken   ",
+    "spanish": "hablar"
+  },
+  {
+    "english": "spend, spent, spent    ",
+    "spanish": "gastar, pasar "
+  },
+  {
+    "english": "spin, spun, spun     ",
+    "spanish": "girar, hilar"
+  },
+  {
+    "english": "stand, stood, stood    ",
+    "spanish": "pararse"
+  },
+  {
+    "english": "steal, stole, stolen   ",
+    "spanish": "robar"
+  },
+  {
+    "english": "stick, stuck, stuck    ",
+    "spanish": "pinchar, atascarse"
+  },
+  {
+    "english": "sting, stung, stung    ",
+    "spanish": "picar, arder"
+  },
+  {
+    "english": "stride, strode, strode   ",
+    "spanish": "dar pasos largos"
+  },
+  {
+    "english": "strike, struck, struck   ",
+    "spanish": "golpear, sonar"
+  },
+  {
+    "english": "strive, strove, striven  ",
+    "spanish": "esforzarse"
+  },
+  {
+    "english": "swear, swore, sworn    ",
+    "spanish": "jurar, maldecir"
+  },
+  {
+    "english": "sweep, swept, swept    ",
+    "spanish": "barrer"
+  },
+  {
+    "english": "swell, swelled, swollen  ",
+    "spanish": "hinchar/se"
+  },
+  {
+    "english": "swim, swam, swum     ",
+    "spanish": "nadar"
+  },
+  {
+    "english": "take, took, taken    ",
+    "spanish": "tomar, llevar"
+  },
+  {
+    "english": "teach, taught, taught   ",
+    "spanish": "enseñar"
+  },
+  {
+    "english": "tear, tore, torn     ",
+    "spanish": "rasgar, arrancar"
+  },
+  {
+    "english": "tell, told, told     ",
+    "spanish": "decir, contar"
+  },
+  {
+    "english": "think, thought, thought  ",
+    "spanish": "pensar, creer"
+  },
+  {
+    "english": "thrive, throve, thriven  ",
+    "spanish": "crecer, prosperar"
+  },
+  {
+    "english": "throw, threw, thrown   ",
+    "spanish": "tirar, arrojar"
+  },
+  {
+    "english": "tread, trod, trodden  ",
+    "spanish": "pisar, aplastar"
+  },
+  {
+    "english": "understand,understood,understood",
+    "spanish": "entender,"
+  },
+  {
+    "english": ",, ",
+    "spanish": "comprender"
+  },
+  {
+    "english": "undertake,undertook,undertaken",
+    "spanish": "comprometerse,"
+  },
+  {
+    "english": ",, ",
+    "spanish": "emprender"
+  },
+  {
+    "english": "undo, undid, undone   ",
+    "spanish": "deshacer"
+  },
+  {
+    "english": "wake, woke, woken    ",
+    "spanish": "despertarse"
+  },
+  {
+    "english": "wear, wore, worn     ",
+    "spanish": "vestir, usar (ropa)"
+  },
+  {
+    "english": "weave, wove, woven    ",
+    "spanish": "tejer"
+  },
+  {
+    "english": "weep, wept, wept     ",
+    "spanish": "llorar"
+  },
+  {
+    "english": "win, won, won ",
+    "spanish": "ganar"
+  },
+  {
+    "english": "wind, wound, wound    ",
+    "spanish": "serpentear, enrollar"
+  },
+  {
+    "english": "withdraw, withdrew, withdrawn     ",
+    "spanish": "retirar/se, extraer"
+  },
+  {
+    "english": "wring, wrung, wrung    ",
+    "spanish": "retorcer, escurrir"
+  },
+  {
+    "english": "write, wrote, written  ",
+    "spanish": "escribir"
+  }
+]
